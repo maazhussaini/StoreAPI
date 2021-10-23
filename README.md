@@ -1,2 +1,2 @@
 # StoreAPI
-Project 1 | Store API | Node Js | Express Js | MongoDb
+Project 2 | Store API | Node Js | Express Js | MongoDb
